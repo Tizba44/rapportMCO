@@ -1,4 +1,3 @@
-variable/constente vide j'ai suprimer des info de mon scripte originel pour des raison de securiter
-fichier en txt pour éviter les protection des messagarie en ligne 
-remettre les fichier en .ps1 :
-AD/MSSQLscript/DISK/MAIN
+
+-variable/constente vide j'ai suprimer des info de mon scripte originel pour des raison de securiter
+
